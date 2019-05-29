@@ -5,6 +5,7 @@
 - H5线上演示 https://codepen.io/pen/
 - 在线工具 https://tool.lu/
 ### H5
+#### HTML
 #### CSS
 ##### 元素选择器
 - 元素名（）
@@ -14,6 +15,7 @@
 - #ID名称{}
 ##### 通用选择器
 - *{}
+#### js
 ## 方法论
 ### GTD(Getting Things Done)
 #### 原则
