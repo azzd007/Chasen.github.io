@@ -4,6 +4,16 @@
 - 文件预览 http://1218.io/
 - H5线上演示 https://codepen.io/pen/
 - 在线工具 https://tool.lu/
+### H5
+#### CSS
+##### 元素选择器
+- 元素名（）
+##### 类选择器
+- .类名组成{}
+##### ID选择器
+- #ID名称{}
+##### 通用选择器
+- *{}
 ## 方法论
 ### GTD(Getting Things Done)
 #### 原则
